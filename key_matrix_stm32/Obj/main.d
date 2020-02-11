@@ -1,0 +1,10 @@
+.\obj\main.o: Code\main.c
+.\obj\main.o: Code\stm32f10x_lib.h
+.\obj\main.o: Code\stm32f10x_map.h
+.\obj\main.o: Code\stm32f10x_conf.h
+.\obj\main.o: Code\stm32f10x_type.h
+.\obj\main.o: Code\cortexm3_macro.h
+.\obj\main.o: Code\stm32f10x_flash.h
+.\obj\main.o: Code\stm32f10x_gpio.h
+.\obj\main.o: Code\stm32f10x_nvic.h
+.\obj\main.o: Code\stm32f10x_rcc.h
