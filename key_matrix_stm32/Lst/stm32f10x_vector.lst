@@ -338,10 +338,10 @@ ARM Macro Assembler    Page 6
               00000400 
               00000000 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M3 --apcs=interw
-ork --depend=.\obj\stm32f10x_vector.d -o.\obj\stm32f10x_vector.o -IG:\softs\kil
-e_v5_S\ARM\RV31\INC -IG:\softs\kile_v5_S\ARM\CMSIS\Include -IG:\softs\kile_v5_S
-\ARM\Inc\ST\STM32F10x --predefine="__UVISION_VERSION SETA 520" --list=.\lst\stm
-32f10x_vector.lst Code\stm32f10x_vector.s
+ork --depend=.\obj\stm32f10x_vector.d -o.\obj\stm32f10x_vector.o -IC:\Keil_v5\A
+RM\RV31\INC -IC:\Keil_v5\ARM\CMSIS\Include -IC:\Keil_v5\ARM\Inc\ST\STM32F10x --
+predefine="__UVISION_VERSION SETA 516" --list=.\lst\stm32f10x_vector.lst Code\s
+tm32f10x_vector.s
 
 
 
